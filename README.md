@@ -9,5 +9,6 @@ El proyecto se realizó en jupyter notebook con el lenguaje Python.
 En el repositorio se encontrarán las siguientes carpetas:
 
 \data que almacena el dataset passenger_flight_data.csv
+
 \notebook donde se encontrará el notebook donde se realizó el EDA y modelado
 
